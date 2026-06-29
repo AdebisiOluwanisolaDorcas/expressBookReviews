@@ -1,1 +1,1 @@
-{"message":"User not logged in"}
+{"message":"Review added/updated for ISBN 1"}
